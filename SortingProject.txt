@@ -1,0 +1,8 @@
+Sort MEthod 3 Methods 
+
+2 Search Algorithms
+
+Write random program to generate 100K or 1mill numbers
+
+Each with be sorted by the three methods and tests timing of sorts on each 
+ same with 1 element search (+time)
